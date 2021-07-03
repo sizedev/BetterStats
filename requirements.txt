@@ -1,0 +1,10 @@
+colored==1.4.2
+appdirs==1.4.3
+toml==0.10.0
+numpy==1.19.3
+numexpr==2.7.1
+requests==2.22.0
+arrow==0.15.6
+tqdm==4.51.0
+rich
+addict
